@@ -1,0 +1,74 @@
+﻿<!DOCTYPE html>
+<html>
+<body>
+
+<p>&nbsp;</p>
+<p>เรียนทีม</p>
+<p>&nbsp; &nbsp; &nbsp;ระบบได้ทำ Process Cash Receipt Add on CSD ทั้งหมด +Total_Count+ รายการ โดยมีรายการที่สำเร็จจำนวน +Count_Success+ รายการ และไม่สามารถทำได้จำนวน +Count_Fail+ รายการ</p>
+
+<p>รายละเอียดรายการที่<span style="text-decoration: underline;">สามารถทำได้</span> ดังนี้</p>
+<table style="border-collapse: collapse; width: 100%; height: 72px;" border="1">
+<tbody>
+
+<tr style="height: 18px;">
+<td style="width: 5%; text-align: center;"><strong>NO.</strong></td>
+<td style="width: 45%; text-align: center; height: 18px;"><strong>BUSolution</strong></td>
+<td style="width: 50%; text-align: center; height: 18px;"><strong>RudyID</strong></td>
+<td style="width: 45%; text-align: center; height: 18px;"><strong>SONo.</strong></td>
+<td style="width: 45%; text-align: center; height: 18px;"><strong>หักภาษีOrไม่หักภาษี</strong></td>
+<td style="width: 45%; text-align: center; height: 18px;"><strong>CustomerCatagory</strong></td>
+<td style="width: 45%; text-align: center; height: 18px;"><strong>Customername</strong></td>
+<td style="width: 45%; text-align: center; height: 18px;"><strong>SCGOrder</strong></td>
+<td style="width: 45%; text-align: center; height: 18px;"><strong>PaymentDate</strong></td>
+<td style="width: 45%; text-align: center; height: 18px;"><strong>มูลค่า/งวดเงิน</strong></td>
+<td style="width: 45%; text-align: center; height: 18px;"><strong>CSDNo.</strong></td>
+<td style="width: 45%; text-align: center; height: 18px;"><strong>Linkใบเสร็จ</strong></td>
+<td style="width: 45%; text-align: center; height: 18px;"><strong>Linkหลักฐาน</strong></td>
+<td style="width: 45%; text-align: center; height: 18px;"><strong>LinkWHT</strong></td>
+
+
+</tr>
+
++Item_Log_Success+
+
+</tbody>
+</table>
+<p>รายละเอียดรายการที่<span style="text-decoration: underline;">ไม่สามารถทำได้</span>ดังนี้</p>
+<table style="border-collapse: collapse; width: 100%; height: 72px;" border="1">
+<tbody>
+
+<tr style="height: 18px;">
+<td style="width: 5%; text-align: center;"><strong>NO.</strong></td>
+<td style="width: 45%; text-align: center; height: 18px;"><strong>BUSolution</strong></td>
+<td style="width: 50%; text-align: center; height: 18px;"><strong>RudyID</strong></td>
+<td style="width: 45%; text-align: center; height: 18px;"><strong>SONo.</strong></td>
+<td style="width: 45%; text-align: center; height: 18px;"><strong>หักภาษีOrไม่หักภาษี</strong></td>
+<td style="width: 45%; text-align: center; height: 18px;"><strong>CustomerCatagory</strong></td>
+<td style="width: 45%; text-align: center; height: 18px;"><strong>Customername</strong></td>
+<td style="width: 45%; text-align: center; height: 18px;"><strong>SCGOrder</strong></td>
+<td style="width: 45%; text-align: center; height: 18px;"><strong>PaymentDate</strong></td>
+<td style="width: 45%; text-align: center; height: 18px;"><strong>มูลค่า/งวดเงิน</strong></td>
+<td style="width: 45%; text-align: center; height: 18px;"><strong>CSDNo.</strong></td>
+<td style="width: 45%; text-align: center; height: 18px;"><strong>Linkใบเสร็จ</strong></td>
+<td style="width: 45%; text-align: center; height: 18px;"><strong>Linkหลักฐาน</strong></td>
+<td style="width: 45%; text-align: center; height: 18px;"><strong>LinkWHT</strong></td>
+<td style="width: 45%; text-align: center; height: 18px;"><strong>ERROR</strong></td>
+</tr>
+
++Item_Log_Fail+
+
+</tbody>
+</table>
+
+
+
+<br>
+<br>
+<br>
+<br>
+
+<p>&nbsp;</p>
+<p>Best Regards</p>
+<p>Robotic Process Automation (RPA)</p>
+
+</body>

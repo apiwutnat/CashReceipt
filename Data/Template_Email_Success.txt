@@ -1,0 +1,16 @@
+﻿<tr style="height: 18px;">
+<td style="width: 5%; text-align: center;">+NO+</td>
+<td style="width: 45%; height: 18px;">+BUSolution+</td>
+<td style="width: 50%; height: 18px;">+RudyID+</td>
+<td style="width: 45%; height: 18px;">+SONo.+</td>
+<td style="width: 45%; height: 18px;">+หักภาษีOrไม่หักภาษี+</td>
+<td style="width: 45%; height: 18px;">+CustomerCatagory+</td>
+<td style="width: 45%; height: 18px;">+Customername+</td>
+<td style="width: 45%; height: 18px;">+SCGOrder+</td>
+<td style="width: 45%; height: 18px;">+PaymentDate+</td>
+<td style="width: 45%; height: 18px;">+มูลค่า/งวดเงิน+</td>
+<td style="width: 45%; height: 18px;">+CSDNo.+</td>
+<td style="width: 45%; height: 18px;">+Linkใบเสร็จ+</td>
+<td style="width: 45%; height: 18px;">+Linkหลักฐาน+</td>
+<td style="width: 45%; height: 18px;">+LinkWHT+</td>
+</tr>
